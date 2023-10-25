@@ -5,6 +5,9 @@ export default function AboutView() {
       <h2>This place intentionally left empty</h2>
          
       <h1>hello</h1>
+      <p>
+        another branch
+      </p>
       <h1>whats UPP!!!!</h1>
       <p>It’s a place where you can grow your own UI 🤗</p>
     </div>
