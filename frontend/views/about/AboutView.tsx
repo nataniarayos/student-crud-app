@@ -8,7 +8,6 @@ export default function AboutView() {
       <p>
         another branch
       </p>
-      <h1>whats UPP!!!!</h1>
       <p>It’s a place where you can grow your own UI 🤗</p>
     </div>
   );
