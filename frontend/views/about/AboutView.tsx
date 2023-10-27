@@ -8,6 +8,10 @@ export default function AboutView() {
       <p>
         another branch
       </p>
+      <p>branch two</p>
+      <p>branch two</p>
+      <p>branch two</p>
+      <p>branch two</p>
       <p>It’s a place where you can grow your own UI 🤗</p>
     </div>
   );
